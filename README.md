@@ -19,7 +19,7 @@ print greet;
 number num = 1234567890;
 
 # Print the value of the variable number;
-print number;
+print num;
 
 # Print a message to the console;
 print "Hello, World!";
