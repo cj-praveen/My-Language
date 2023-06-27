@@ -81,6 +81,8 @@ void make_tokens(char code[], int len) {
             chunk[0] = '\0';
         }
     }
+
+    free(chunk);
 }
 
 void parse_tokens() {
